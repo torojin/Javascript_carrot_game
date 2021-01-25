@@ -1,1 +1,2 @@
-# carrot_game
+# carrot_game_js
+ 
